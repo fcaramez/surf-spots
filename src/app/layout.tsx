@@ -153,6 +153,7 @@ export default function RootLayout({
             __html: JSON.stringify(generateBreadcrumbSchema()),
           }}
         />
+        <meta name="google-adsense-account" content="ca-pub-3302274839736991" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
