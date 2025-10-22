@@ -123,6 +123,13 @@ export default function RootLayout({
     <html lang="en">
       <GoogleTagManager gtmId="G-WL7HC1QXYK" />
       <head>
+        <script
+          id="Cookiebot"
+          src="https://consent.cookiebot.com/uc.js"
+          data-cbid="550af9e9-992f-4c55-986f-0c1b3e131898"
+          type="text/javascript"
+          async
+        ></script>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
