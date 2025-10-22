@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { GoogleTagManager } from "@next/third-parties/google";
@@ -12,6 +12,12 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  themeColor: "#0891b2",
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://surf-spots.vercel.app"),
@@ -53,11 +59,9 @@ export const metadata: Metadata = {
       "Find the perfect surf spot based on your experience level, budget, and wave preferences. Explore detailed guides for surf locations across Europe and worldwide.",
     images: ["/og-image.jpg"],
   },
-  viewport: "width=device-width, initial-scale=1",
-  themeColor: "#0891b2",
   manifest: "/manifest.json",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/favicon.ico",
     apple: "/icons/icon-192x192.png",
   },
   other: {
