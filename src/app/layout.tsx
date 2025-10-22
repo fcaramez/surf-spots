@@ -121,7 +121,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <GoogleTagManager gtmId="G-WL7HC1QXYK" />
+      <GoogleTagManager gtmId="G-32MHVQ2EC3" />
       <head>
         <script
           id="Cookiebot"
