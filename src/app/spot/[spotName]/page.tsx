@@ -137,6 +137,21 @@ export default async function SpotPage({
           </article>
         </main>
 
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3302274839736991"
+          crossOrigin="anonymous"
+        ></script>
+        <ins
+          className="adsbygoogle"
+          style={{ display: "block" }}
+          data-ad-client="ca-pub-3302274839736991"
+          data-ad-slot="6895468062"
+          data-ad-format="auto"
+          data-full-width-responsive="true"
+        ></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
         <footer className="bg-sky-100 mt-20 py-8">
           <div className="max-w-7xl mx-auto px-4 text-center text-sky-bg-sky-100-foreground">
             <p>© 2025 Europe Surf Guide. All rights reserved.</p>
