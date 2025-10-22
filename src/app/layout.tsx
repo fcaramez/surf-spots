@@ -124,6 +124,11 @@ export default function RootLayout({
       <GoogleTagManager gtmId="G-32MHVQ2EC3" />
       <head>
         <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3302274839736991"
+          crossOrigin="anonymous"
+        ></script>
+        <script
           id="Cookiebot"
           src="https://consent.cookiebot.com/uc.js"
           data-cbid="550af9e9-992f-4c55-986f-0c1b3e131898"
