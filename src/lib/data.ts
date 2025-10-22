@@ -7,7 +7,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Peniche",
     region: "Central Portugal",
-    image: "",
+    image:
+      "https://images.winalist.com/blog/wp-content/uploads/2025/04/12095324/adobestock-692602795-1500x999.jpeg",
     description:
       "Peniche is a world-renowned surf destination and home to the famous Supertubos beach, hosting international competitions. This historic fishing town offers consistent waves year-round with various breaks suitable for different skill levels.",
     level: "All Levels",
@@ -38,7 +39,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Ericeira",
     region: "Lisbon Area",
-    image: "",
+    image:
+      "https://www.portugal.net/en/wp-content/uploads/sites/107/ericeira.jpg",
     description:
       "Europe's first World Surfing Reserve, Ericeira is a charming fishing village with pristine beaches and world-class waves. The area features multiple reef breaks and is famous for powerful right-handers like Coxos and Ribeira d'Ilhas.",
     level: "Intermediate to Advanced",
@@ -69,7 +71,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Nazaré",
     region: "Central Portugal",
-    image: "",
+    image:
+      "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3A83/production/_129097941_nazare_getty.jpg",
     description:
       "Famous for the biggest waves in the world, Nazaré became legendary when surfers like Garrett McNamara rode 100-foot waves. While the massive Praia do Norte is for elite big wave surfers only, the main beach offers gentler waves perfect for learning.",
     level: "All Levels",
@@ -100,7 +103,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Sagres",
     region: "Algarve",
-    image: "",
+    image:
+      "https://thealgarvefamily.com/wp-content/uploads/2022/12/Mareta-beach-things-to-do-in-sagres.jpg",
     description:
       "Located at the southwestern tip of Europe, Sagres offers dramatic cliffs, pristine beaches, and consistent surf. The area provides protection from various wind directions and features beautiful scenery with a laid-back atmosphere perfect for surf trips.",
     level: "Intermediate",
@@ -131,7 +135,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Cascais",
     region: "Lisbon Coast",
-    image: "",
+    image:
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9a/60/c4/praia-de-carcavelos.jpg?w=900&h=500&s=1",
     description:
       "Just 20 minutes from Lisbon, Carcavelos is the most accessible surf spot near the capital. This long sandy beach offers consistent waves and is popular among locals and surf schools, making it ideal for beginners and improving intermediates.",
     level: "Beginner to Intermediate",
@@ -162,7 +167,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Portugal",
     city: "Aljezur",
     region: "Southwest Alentejo",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2z7Kr8G7MJim8hsFDPDSmSjXxLYmdES6-Pw&s",
     description:
       "Hidden gem in the Costa Vicentina Natural Park, Arrifana features a stunning horseshoe bay surrounded by dramatic cliffs. The beach offers both left and right breaks with powerful, hollow waves that attract experienced surfers seeking uncrowded perfection.",
     level: "Intermediate to Advanced",
@@ -192,7 +198,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Spain",
     city: "San Sebastián",
     region: "Basque Country",
-    image: "",
+    image:
+      "https://www.sansebastian.travel/en/wp-content/uploads/sites/2/2013/04/Zurriola-beach.jpg",
     description:
       "La Zurriola beach in San Sebastián is the heart of Basque surf culture. This urban beach offers consistent waves in a stunning city setting with world-class gastronomy and vibrant nightlife just steps from the shore.",
     level: "Beginner to Intermediate",
@@ -223,7 +230,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Spain",
     city: "Mundaka",
     region: "Basque Country",
-    image: "",
+    image:
+      "https://d14fqx6aetz9ka.cloudfront.net/wp-content/uploads/2017/08/28163127/esp_northeastspain_mundaka.jpg",
     description:
       "Home to one of Europe's most famous left-hand waves, Mundaka is a bucket-list destination for advanced surfers. The river mouth creates a perfect barrel that can hold up to 12 feet, drawing top surfers from around the world.",
     level: "Advanced to Professional",
@@ -253,7 +261,8 @@ export const surfSpots: SurfSpot[] = [
     country: "France",
     city: "Hossegor",
     region: "Les Landes",
-    image: "",
+    image:
+      "https://cdn.sanity.io/images/we0tdimr/production/79b5bdad9b00f17f5d23f50d48bc2723061d3210-3840x2560.jpg?rect=0,200,3840,2160&w=1920&h=1080&q=70&auto=format",
     description:
       "Known as the European surf capital, Hossegor features powerful beach breaks and hosts the world's best in professional competitions. La Gravière offers some of the heaviest beach break barrels in the world.",
     level: "Intermediate to Advanced",
@@ -284,7 +293,8 @@ export const surfSpots: SurfSpot[] = [
     country: "France",
     city: "Biarritz",
     region: "French Basque Coast",
-    image: "",
+    image:
+      "https://images.ctfassets.net/zmjc9gr9hbbf/5RKEfQjzISDIgHbKti8TWq/b5c527763a814ebb1786085e0ab3a0a5/St_Biarritz_2700px_AQU36797.jpg?w=1980",
     description:
       "The birthplace of European surfing, Biarritz combines elegant Belle Époque architecture with excellent surf. Grande Plage and Côte des Basques offer waves for all levels in this sophisticated seaside resort.",
     level: "All Levels",
@@ -315,7 +325,8 @@ export const surfSpots: SurfSpot[] = [
     country: "United Kingdom",
     city: "Newquay",
     region: "Cornwall",
-    image: "",
+    image:
+      "https://lovenqy.co.uk/wp-content/uploads/2023/10/Explore-landing-size-3.png",
     description:
       "Britain's surf capital, Newquay offers consistent Atlantic swells hitting dramatic Cornish cliffs. Fistral Beach is the crown jewel, hosting major competitions and offering world-class waves with a uniquely British surf culture.",
     level: "All Levels",
@@ -346,7 +357,8 @@ export const surfSpots: SurfSpot[] = [
     country: "Ireland",
     city: "Bundoran",
     region: "County Donegal",
-    image: "",
+    image:
+      "https://thesurfatlas.com/wp-content/uploads/2024/04/Bundoran-surf.jpg",
     description:
       "Known as Ireland's surf capital, Bundoran features powerful Atlantic swells and dramatic scenery. The Peak offers world-class reef breaks while the main beach is perfect for beginners. Embrace the cold water and friendly Irish surf community.",
     level: "All Levels",
@@ -377,7 +389,7 @@ export const surfSpots: SurfSpot[] = [
     country: "Ireland",
     city: "Lahinch",
     region: "County Clare",
-    image: "",
+    image: "https://visitclare.ie/wp-content/uploads/2023/01/Lahinch.png",
     description:
       "A picturesque Irish surf village with a stunning crescent bay, Lahinch offers consistent waves and breathtaking Cliffs of Moher nearby. The friendly local surf community and traditional Irish pubs create an authentic surf experience.",
     level: "Beginner to Intermediate",
